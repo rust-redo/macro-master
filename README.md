@@ -1,2 +1,3 @@
 # macro-master
-Be a rust-macro master
+
+> Conquer the challenge, be a macro master
